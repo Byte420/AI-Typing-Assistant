@@ -1,0 +1,78 @@
+# API Keys and sensitive data
+*.env
+.env
+.env.local
+.env.production
+.env.development
+config.py
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and data files
+Logs/
+*.log
+usage.json
+chat_log.txt
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Backup files
+*_backup.py
+*_original.py
+
+# Development and test files
+tests/
+demo_*.py
+test_*.py
+create_github_repo.py
+push_to_github.*
+ai_typing_assistant_original.py
+INSTALL.md
+usage.json 
